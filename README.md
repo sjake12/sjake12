@@ -17,3 +17,5 @@ I am a Computer Science student learning Full Stack Development
     <img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
     <img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sjake12)](https://git.io/streak-stats)

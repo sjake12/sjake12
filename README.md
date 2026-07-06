@@ -45,9 +45,6 @@ Whether I'm developing a comprehensive management system or researching deep lea
 ## 📂 Featured Projects & Research
 
 * **Baketrack:** Designed and developed a comprehensive bakery management system to streamline operations and inventory tracking.
-* **Factify:** Built a Chrome extension prototype utilizing GPT APIs to provide real-time fact-checking of social media posts before they are published.
-* **revised-escheduling:** A dynamic scheduling system built utilizing a modern Laravel and React stack managed within a pnpm monorepo structure. 
-* **AI Research:** Conducted technical studies on optimizing EfficientNet-B0 for multi-class solid waste classification using curated datasets.
 
 ## 📫 Let's Connect!
 

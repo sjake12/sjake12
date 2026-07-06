@@ -23,6 +23,9 @@ Whether I'm developing a comprehensive management system or researching deep lea
 - **AI & ML:** Deep Learning (CNNs, LSTMs)
 - **Infrastructure:** Git, GitHub, pnpm / npm, cPanel, Z.com hosting
 
+## 📈 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sjake12)](https://git.io/streak-stats)
+
 ## 📂 Featured Projects & Research
 
 * **Baketrack:** Designed and developed a comprehensive bakery management system to streamline operations and inventory tracking.
@@ -34,6 +37,6 @@ Whether I'm developing a comprehensive management system or researching deep lea
 - **Email:** apostol.sjake12@gmail.com
 
 ---
-⭐️ *From **sjake12***# Hi there, I'm Jake 👋
+⭐️ *From **sjake12***
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sjake12)](https://git.io/streak-stats)
+

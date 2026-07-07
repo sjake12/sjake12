@@ -14,7 +14,7 @@ Whether I'm developing a comprehensive management system or researching deep lea
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,react,mysql" alt="Tech Stack Skillicons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,react,typescript,mysql" alt="Tech Stack Skillicons" />
   </a>
 </p>
 
